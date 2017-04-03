@@ -1,0 +1,8 @@
+{
+    "general": {
+        "signin": "Sign In",
+        "signout": "Sign Out",
+        "email": "E-Mail",
+        "password": "Password"
+    }
+}

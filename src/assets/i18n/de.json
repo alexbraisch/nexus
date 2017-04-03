@@ -1,0 +1,22 @@
+{
+    "general": {
+      "signin": "Anmelden",
+      "signout": "Abmelden",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "suche": "Suche"
+    },
+    "nav": {
+      "dashboard": "Übersicht",
+      "catalogue": "Katalog",
+      "library": "Eigene Bibliothek",
+      "generate": "Werbematerial generieren",
+      "import": "Import"
+    },
+    "user": {
+      "profile": "Profil"
+    },
+    "order": {
+      "cart": "Warenkorb"
+    }
+}
